@@ -12,8 +12,8 @@
 #### if needed
 ``` sudo npm install ```
 
-### open Cypress to run test using UI application
+### open Cypress to run the test using UI application
 ``` npm run cy:open ```
 
-### or run test in headless mode
+### or run the test in headless mode
 ``` npm run cy:run ```
